@@ -13,9 +13,22 @@ h1 {
   font-weight: bold;
 }
 
-p {
+p1{
   border: 2px solid black;
-  background-color: #A60A2A;
+  background-color: indianred;
+  padding: 5px;
+  width: 370px;
+  height: 6px;
+  margin-right: 2px;
+  margin-left: 10px;
+  color: white;
+  font-family: "Comic Sans MS",cursive;,sans-sherif;
+
+}
+
+p2{
+  border: 2px solid black;
+  background-color: blueviolet;
   padding: 5px;
   width: 370px;
   height: 200px;
