@@ -17,7 +17,7 @@ h1 {
 p{
   border-width: 2px;
   border-color: black;
-  width: 95%;
+  width: 90%;
   height: 360px;
   margin-left: 3px;
   margin-right: 3px;
@@ -32,7 +32,7 @@ p{
 
 
 .row1{
-  width: 110%; 
+  width: 105%; 
 }
 
 
