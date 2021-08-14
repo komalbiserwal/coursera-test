@@ -15,8 +15,10 @@ h1 {
 }
 
 p{
-  width: 90%;
-  height: 380px;
+  border-width: 2px;
+  border-color: black;
+  width: 95%;
+  height: 360px;
   margin-left: 3px;
   margin-right: 3px;
   margin-bottom: 2px;
